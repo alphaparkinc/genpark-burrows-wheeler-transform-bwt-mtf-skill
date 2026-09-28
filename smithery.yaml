@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-burrows-wheeler-transform-bwt-mtf-skill
+service:
+  name: genpark-burrows-wheeler-transform-bwt-mtf-skill
+  command: python
+  args:
+    - mcp_server.py
